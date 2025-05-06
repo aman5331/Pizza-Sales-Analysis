@@ -1,11 +1,7 @@
 <div align="center"> <h1>PIZZA SALES ANALYSIS</h1>
 </div>
 
-<div align="center">
-    
-![image](https://github.com/sharanya-27/pizza_sales_analysis/assets/142989454/9ac41c33-bd49-4c78-8124-4fc5b3c091ec)
 
-</div>     
 
 
 ----
@@ -16,14 +12,12 @@ __Tools used : Excel,MS SQL Server,Power BI__
 
 [SQL Analysis-code](sql_analysis)
 
-[Power BI Dashboard- click to view](https://github.com/sharanya-27/Pizza_Sales_Analysis_SQL/files/14561723/Pizza_Sales_BI_Dashboard.pdf)
-
 [Power BI Dashboard- click to interact](https://app.powerbi.com/view?r=eyJrIjoiMWQzOWNmNDItNzZhYS00MDMxLWI5ZDYtM2FmOWUwMzk3ZWIxIiwidCI6IjZmMTFlMWQzLTEyMTAtNDk5YS1iMjY0LTU2NzA0NTY4OGUyNyJ9)
 
 
 __Business Problem__
 -------
-A pizza company needs a robust and scalable data analytics solution to handle the vast amount of data(approximately 50k rows of data combined) to effectively analyze and extract meaningful insights like trends, order patterns, menu performance, customer preferences and other key business metrics. Visualizations must also be created to identify trends and insights related to daily and monthly order volume, sales by pizza type and size, and top/bottom sellers. The end goal is to equip the business with data-driven insights that inform strategic decisions to improve operations and profitability.
+A pizza company needs a robust and scalable data analytics solution to handle the vast amount of data(approximately 50k rows combined) to effectively analyze and extract meaningful insights like trends, order patterns, menu performance, customer preferences, and other key business metrics. Visualizations must also be created to identify trends and insights related to daily and monthly order volume, sales by pizza type and size, and top/bottom sellers. The end goal is to equip the business with data-driven insights that inform strategic decisions to improve operations and profitability.
 
 __Solution Plan__
 -------
